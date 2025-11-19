@@ -34,15 +34,6 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
 
 🌟 **Goal:** Become a skilled **Full-Stack Developer** capable of building end-to-end applications.
 
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
-
-<div>
-  <p align="left">
-    <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
-    <a href="https://discordapp.com/users/456026800401940482" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a>
-  </p>
-</div>
-
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
@@ -77,6 +68,8 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TawhidulIslamRefat&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=TawhidulIslamRefat&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 </p>
+
+
 
  
 # 🏆 Achievements & Trophies
