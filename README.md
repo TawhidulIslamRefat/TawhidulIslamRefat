@@ -6,8 +6,15 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hey 👋, I'm Tawhidul Islam Refat</h1></summary>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2BD5E2&background=FFDA0000&width=447&height=66&lines=MERN+Stack+Developer;+Frontend+Developer;React+Developer" alt="Typing SVG" /></a>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Tawhidul Islam Refat</h1></summary>
+    <!--- typo --->
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Passionate+Frontend+Developer;React+Developer" 
+    alt="Typing SVG" 
+  />
+</a>
+
   </ul>
 </div>
 
