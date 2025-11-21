@@ -77,7 +77,17 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
 </p>
 
 
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TawhidulIslamRefat&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=TawhidulIslamRefat&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+  ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
  
 # 🏆 Achievements & Trophies
 <p align="center">
@@ -86,7 +96,7 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
 
 ## 🤗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
+  <a href="https://www.linkedin.com/in/tawhidul-islam-refat-dev/"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
   <a href="tirefat544@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
   <a href="https://github.com/TawhidulIslamRefat"><img src="https://skillicons.dev/icons?i=github" height="36"/></a>
   <a href="https://www.facebook.com/tawhidulislamrefat11"> <img
@@ -97,3 +107,7 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
 ---
 
 <p align="center">✨ Thanks for visit ✨</p>
+
+
+
+
