@@ -30,21 +30,21 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tjaWFqbTcyY29kdTB6MmUwZWttczZ6cmNydzA5c3QwZnM2b214aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360px"/>
 
-🔭 I’m currently working on **React & Tailwind-based frontend projects**  
-🤝 I’m looking to collaborate on **MERN Stack & UI/UX driven applications**  
-🌱 I’m currently learning **Node.js, Express.js & MongoDB**  
-👨🏻‍💻 Most of my projects are available on **GitHub**  
-🎨 I design clean UI components using **Tailwind & Figma**  
-💬 Ask me anything related to **Frontend, React, Tailwind, or MERN Stack**  
+🔭 I’m currently working on **React, Next.js & Tailwind-based frontend projects**  
+🤝 I’m looking to collaborate on **MERN Stack & UI/UX-driven applications**  
+🌱 I’m currently learning **Node.js, Express.js & MongoDB** to become a full-stack developer  
+👨🏻‍💻 Most of my projects, including **Hero Kidz**    
+🎨 I design clean and responsive UI components using **Tailwind**  
+💬 Ask me anything related to **Frontend, React, Next.js, Tailwind, or MERN Stack**  
 📫 Reach me anytime on **LinkedIn**  
-📚 I read **tech blogs & creative articles** to improve my skills  
+📚 I read **tech blogs & creative articles** to continuously improve my skills  
 
-🌟 **Goal:** Become a skilled **Full-Stack Developer** capable of building end-to-end applications.
+🌟 **Goal:** Become a skilled **Full-Stack Developer** capable of building end-to-end applications with modern technologies.
 
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
-### Languages:
+### Language:
 ![Languages](https://skillicons.dev/icons?i=html,css,javascript)
 
 ### CSS Frameworks:
@@ -99,14 +99,14 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
   <a href="https://www.linkedin.com/in/tawhidul-islam-refat-dev/"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
   <a href="tirefat544@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
   <a href="https://github.com/TawhidulIslamRefat"><img src="https://skillicons.dev/icons?i=github" height="36"/></a>
-  <a href="https://www.facebook.com/tawhidulislamrefat11"> <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=facebook" height="36"
+  <a href="https://x.com/TawhidulRefat"> <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height="36"
     /></a>
 </p>
 
 ---
 
-<p align="center">✨ Thanks for visit ✨</p>
+<p align="center">✨ Thanks For Visit My Profile ✨</p>
 
 
 
