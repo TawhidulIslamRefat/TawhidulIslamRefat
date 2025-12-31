@@ -64,8 +64,8 @@ Currently, I am focused on strengthening my skills as a **Full-Stack Developer**
 
 ## 📊 GitHub Stats & Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TawhidulIslamRefat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawhidulIslamRefat&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TawhidulIslamRefat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawhidulIslamRefat&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
@@ -78,7 +78,9 @@ Currently, I am focused on strengthening my skills as a **Full-Stack Developer**
 ![](https://github-contributor-stats.vercel.app/api?username=TawhidulIslamRefat&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TawhidulIslamRefat&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TawhidulIslamRefat&color=0e75b6&style=flat" />
+</p>
 
 
   ### ✍️ Random Dev Quote
@@ -86,10 +88,6 @@ Currently, I am focused on strengthening my skills as a **Full-Stack Developer**
 
 ---
  
-# 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TawhidulIslamRefat&theme=radical&no-frame=true&row=1&margin-w=15"/>
-</p>
 
 ## 🤗 Connect with Me
 <p align="center">
