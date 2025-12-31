@@ -10,7 +10,7 @@
     <!--- typo --->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Passionate+Frontend+Developer;React+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Specialist+(React);" 
     alt="Typing SVG" 
   />
 </a>
@@ -21,9 +21,10 @@
 
 
 ## 🧐 About Me
-I am a passionate **Frontend Developer** who loves turning ideas into beautiful, functional, and user-friendly web experiences.  
-I enjoy exploring new technologies 💻 and using them to build clean, fast, and modern applications 🛠️.  
-Currently on a journey to become a **Full-Stack Developer** 🚀!
+
+I am a **Frontend Specialist and MERN Stack Developer** with a strong passion for building clean, scalable, and user-friendly web applications.
+I enjoy working with modern JavaScript technologies to create fast, responsive, and high-performance interfaces.
+Currently, I am focused on strengthening my skills as a **Full-Stack Developer** across the MERN ecosystem.
 
 
 <br>  <!-- ekhane gap ta add kora holo -->
@@ -35,8 +36,7 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
 🌱 I’m currently learning **Node.js, Express.js & MongoDB** to become a full-stack developer  
 👨🏻‍💻 Most of my projects, including **Hero Kidz**    
 🎨 I design clean and responsive UI components using **Tailwind**  
-💬 Ask me anything related to **Frontend, React, Next.js, Tailwind, or MERN Stack**  
-📫 Reach me anytime on **LinkedIn**  
+💬 Ask me anything related to **Frontend, React, Next.js, Tailwind, or MERN Stack**   
 📚 I read **tech blogs & creative articles** to continuously improve my skills  
 
 🌟 **Goal:** Become a skilled **Full-Stack Developer** capable of building end-to-end applications with modern technologies.
@@ -44,26 +44,23 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
-### Language:
-![Languages](https://skillicons.dev/icons?i=html,css,javascript)
+### Programming Language:
+![Languages](https://skillicons.dev/icons?i=javascript)
 
-### CSS Frameworks:
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+### Frontend:
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)  ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=axios,reactrouter&theme=dark)
 
-### JavaScript Frameworks:
-![JS Frameworks](https://skillicons.dev/icons?i=react,nodejs,express)
+### Backend:
+![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase)  ![Backend](https://go-skill-icons.vercel.app/api/icons?i=authenticator,jwt&theme=dark)
 
 ### Database:
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### Deployment:
-![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)
-
-### Design:
-![Design](https://skillicons.dev/icons?i=figma)
+![Deployment](https://skillicons.dev/icons?i=vercel,netlify,heroku)
 
 ### Tools:
-![Tools](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)
+![Tools](https://skillicons.dev/icons?i=windows,git,github,vscode,postman,vite,npm,figma)  ![Tools](https://go-skill-icons.vercel.app/api/icons?i=daisyui,chrome&theme=dark)
 
 ## 📊 GitHub Stats & Analytics
 <p align="center">
@@ -96,11 +93,15 @@ Currently on a journey to become a **Full-Stack Developer** 🚀!
 
 ## 🤗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tawhidul-islam-refat-dev/"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
-  <a href="tirefat544@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
-  <a href="https://github.com/TawhidulIslamRefat"><img src="https://skillicons.dev/icons?i=github" height="36"/></a>
+  <a href="https://www.linkedin.com/in/tawhidul-islam-refat-webdeveloper/"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
+   <a href="https://tir-portfolio.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" height="36"
+    />
+  </a>
+  <a href="tawhidulislamrefat11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
   <a href="https://x.com/TawhidulRefat"> <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height="36"
+      src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark" height="36"
     /></a>
 </p>
 
