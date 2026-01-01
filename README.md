@@ -48,7 +48,7 @@ Currently, I am focused on strengthening my skills as a **Full-Stack Developer**
 ![Languages](https://skillicons.dev/icons?i=javascript)
 
 ### Frontend:
-![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)  ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=axios,reactrouter&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)  ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=axios,reactrouter,gsap,framer&theme=dark)
 
 ### Backend:
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase)  ![Backend](https://go-skill-icons.vercel.app/api/icons?i=authenticator,jwt&theme=dark)
