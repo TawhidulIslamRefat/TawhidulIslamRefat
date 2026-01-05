@@ -10,7 +10,7 @@
     <!--- typo --->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Specialist+(React);" 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Full+Stack+(MERN)+Developer;Frontend+Specialist+(React);" 
     alt="Typing SVG" 
   />
 </a>
