@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/hxYP3D6m/Whats-App-Image-2025-11-19-at-08-44-07-e7a0820f.jpg" alt="My-Banner" width="100%" />
+  <img src="https://i.ibb.co.com/YBDCZKmZ/Whats-App-Image-2025-11-19-at-08-44-08-5b978303.jpg" alt="My-Banner" width="100%" />
 </p>
 
 <div id="user-content-toc">
