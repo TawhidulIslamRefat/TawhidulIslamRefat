@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/vx6SmHfS/file-00000000f570720bad5ef4bf0b28f2cb.png" alt="My-Banner" width="100%" />
+  <img src="https://i.ibb.co.com/dwwxL1Yh/file-000000003cac72088ea43f8cdeb1bce9.png" alt="My-Banner" width="100%" />
 </p>
 
 <div id="user-content-toc">
