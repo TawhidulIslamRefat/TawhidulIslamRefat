@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/YBDCZKmZ/Whats-App-Image-2025-11-19-at-08-44-08-5b978303.jpg" alt="My-Banner" width="100%" />
+  <img src="https://i.ibb.co.com/vx6SmHfS/file-00000000f570720bad5ef4bf0b28f2cb.png" alt="My-Banner" width="100%" />
 </p>
 
 <div id="user-content-toc">
@@ -10,7 +10,7 @@
     <!--- typo --->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Full+Stack+(MERN)+Developer;Frontend+Specialist;React.JS+Developer;" 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Specialist;React.JS+Developer;" 
     alt="Typing SVG" 
   />
 </a>
