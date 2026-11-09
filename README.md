@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/dwwxL1Yh/file-000000003cac72088ea43f8cdeb1bce9.png" alt="My-Banner" width="100%" />
+  <img src="https://i.ibb.co.com/WNMCXqdy/file-0000000066288207983c5c5c24d245e8.png" alt="My-Banner" width="100%" />
 </p>
 
 <div id="user-content-toc">
@@ -10,7 +10,7 @@
     <!--- typo --->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Specialist;React.JS+Developer;" 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Software+Engineer;Full+Stack+Developer;" 
     alt="Typing SVG" 
   />
 </a>
@@ -18,49 +18,64 @@
   </ul>
 </div>
 
+## About Me
 
+I am a **Competitive Programmer and Aspiring Software Engineer** with a strong passion for problem-solving, algorithms, and software development.
 
-## 🧐 About Me
+I enjoy solving complex problems using **Data Structures & Algorithms (DSA)** and exploring modern technologies to improve my programming skills. I love writing clean, efficient code and continuously challenging myself to become a better developer.
 
-I am a **Frontend Specialist and MERN Stack Developer** with a strong passion for building clean, scalable, and user-friendly web applications.
-I enjoy working with modern JavaScript technologies to create fast, responsive, and high-performance interfaces.
-Currently, I am focused on strengthening my skills as a **Full-Stack Developer** across the MERN ecosystem.
+<br>
 
+- Currently exploring **Web Development and Software Engineering**
+- Passionate about **Data Structures & Algorithms**
+- Practicing Competitive Programming using **C++**
+- Improving my skills in **C++ & JavaScript**
+- Interested in building modern interfaces using **React & Next.js**
+- Enjoy solving programming challenges and improving problem-solving skills
+- Always eager to learn new technologies and explore innovative ideas
 
-<br>  <!-- ekhane gap ta add kora holo -->
+### Current Goal
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tjaWFqbTcyY29kdTB6MmUwZWttczZ6cmNydzA5c3QwZnM2b214aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360px"/>
-
-🔭 I’m currently working on **React, Next.js & Tailwind-based frontend projects**  
-🤝 I’m looking to collaborate on **MERN Stack & UI/UX-driven applications**  
-🌱 I’m currently learning **Node.js, Express.js & MongoDB** to become a full-stack developer  
-👨🏻‍💻 Most of my projects, including **Hero Kidz**    
-🎨 I design clean and responsive UI components using **Tailwind**  
-💬 Ask me anything related to **Frontend, React, Next.js, Tailwind, or MERN Stack**   
-📚 I read **tech blogs & creative articles** to continuously improve my skills  
-
-🌟 **Goal:** Become a skilled **Full-Stack Developer** capable of building end-to-end applications with modern technologies.
+To become a skilled **Software Engineer** and a strong problem solver, capable of building impactful and scalable software solutions.
 
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
 ### Programming Language:
-![Languages](https://skillicons.dev/icons?i=javascript)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js)
 
 ### Frontend:
-![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)  ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=axios,reactrouter,gsap,framer&theme=dark)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,css)  ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=axios,reactrouter,gsap,framer&theme=dark)
 
 ### Backend:
-![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase)  ![Backend](https://go-skill-icons.vercel.app/api/icons?i=authenticator,jwt&theme=dark)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,firebase,authenticator,authjs,jwt&theme=dark)
 
 ### Database:
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql)
 
 ### Deployment:
-![Deployment](https://skillicons.dev/icons?i=vercel,netlify,heroku)
+![Deployment](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel,firebase,cloudflare,railway)
 
 ### Tools:
-![Tools](https://skillicons.dev/icons?i=windows,git,github,vscode,postman,vite,npm,figma)  ![Tools](https://go-skill-icons.vercel.app/api/icons?i=daisyui,chrome&theme=dark)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,git,github,vscode,postman,vite,npm,figma,daisyui,chrome&theme=dark)
+
+### AI & AI Tools:
+![AI Tools](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,antigravity,cursor&theme=dark)
+
+### Soft Skills:
+
+![Problem Solving](https://img.shields.io/badge/-PROBLEM%20SOLVING-FF3CAC?style=for-the-badge)
+![Communication](https://img.shields.io/badge/-COMMUNICATION-784BA0?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/-TEAMWORK-2B86C5?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/-ADAPTABILITY-00B09B?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/-TIME%20MANAGEMENT-F7971E?style=for-the-badge)
+
+### Competitive Programming & Problem Solving:
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tawhidulislamrefat)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tawhidulislam1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tawhidul_Islam_Refat/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Tawhidul_Islam_1)
 
 ## 📊 GitHub Stats & Analytics
 <p align="center">
@@ -98,9 +113,6 @@ Currently, I am focused on strengthening my skills as a **Full-Stack Developer**
     />
   </a>
   <a href="tawhidulislamrefat11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
-  <a href="https://x.com/TawhidulRefat"> <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark" height="36"
-    /></a>
 </p>
 
 ---
